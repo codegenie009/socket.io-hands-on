@@ -1,0 +1,24 @@
+{
+  "name": "socket.io-hands-on",
+  "version": "1.0.0",
+  "description": "This is an example of socket.io project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostson1120/socket.io-hands-on.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostson1120/socket.io-hands-on/issues"
+  },
+  "homepage": "https://github.com/ghostson1120/socket.io-hands-on#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
